@@ -1,6 +1,12 @@
 ## Welcome To My Page! 👋
 
 Currently working **@Ford-Otosan**
+ <br> <br>
+ 
+ 
+ ### Github stats:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efecanpinar&layout=compact&theme=dark)](https://github.com/efecanpinar/github-readme-stats) <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+ <br> <br> <br> <br> <br>
 
 ### Connect with me:
 
@@ -11,6 +17,8 @@ Currently working **@Ford-Otosan**
 <a href="https://github.com/efecanpinar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" height="32" width="32" /></a>
 </div>
 
+ <br>
+ 
 ### Languages and Tools:
 
 <div>
@@ -29,8 +37,3 @@ Currently working **@Ford-Otosan**
 <img align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_gitlab_icon_130579.png"  height="32" width="32" /> &nbsp; &nbsp;
 <img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/git_original_wordmark_logo_icon_146510.png"  height="32" width="32" /> &nbsp; &nbsp;
 </div>
-
-
-
-
-
