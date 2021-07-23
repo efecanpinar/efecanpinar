@@ -2,7 +2,7 @@
 
 I'm Efecan, Full-Stack developer from <img src="https://image.flaticon.com/icons/svg/940/940164.svg" width="12" height="22" /> **Istanbul, Turkey**.
 <br><br>
-Currently working **@Intertech**  <img src="https://www.teknoparkistanbul.com.tr/uploads/companies/intertech_w540_op_op_op.webp"  width="60" height="12"/> 
+Currently working **@Intertech**  <img src="https://www.teknoparkistanbul.com.tr/uploads/companies/intertech_w540_op_op_op.webp"  width="19" height="15"/> 
  <br> <br>
  
  
