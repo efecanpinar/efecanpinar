@@ -1,8 +1,8 @@
 ## Welcome To My Page! 👋
 
-I'm Efecan, RPA developer from <img src="https://image.flaticon.com/icons/svg/940/940164.svg" width="12" height="22" /> **Istanbul, Turkey**.
+I'm Efecan, Full-Stack developer from <img src="https://image.flaticon.com/icons/svg/940/940164.svg" width="12" height="22" /> **Istanbul, Turkey**.
 <br><br>
-Currently working **@Ford-Otosan**  <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Ford_Otosan_logo.svg"  width="60" height="12"/> 
+Currently working **@Intertech**  <img src="https://www.teknoparkistanbul.com.tr/uploads/companies/intertech_w540_op_op_op.webp"  width="60" height="12"/> 
  <br> <br>
  
  
